@@ -1,0 +1,2 @@
+import './notivue'
+import './router'
