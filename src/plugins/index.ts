@@ -1,2 +1,0 @@
-import './notivue'
-import './router'
